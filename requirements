@@ -1,0 +1,14 @@
+1. ParkingLot has multiple floors, entry points and exit points.
+2. ParkingTicket is generated at the time of entry and payment is done at the time of exit.
+3. Parking Floor contains multiple parking slots which are of different types.
+    a. HANDICAPPED b. CAR c. LARGE d. MOTORBIKE e. ELECTRIC f. EBIKE
+4. Parking is on first come first serve basis.
+5. Time is recorded at the time of issuing the ticket in entry panel.
+6. Time is recorded at the exit panel and charges are calculated at that point of time.
+7. Admin should be able to add floor to the lot.
+8. Admin should be able to add parking slots to the floor.
+9. Admin should be able to remove a slot.
+10. Admin should be able to add entrance and exit panels.
+11. User should not be issued a ticket if slot is not available.
+12. As the user is allocated a slot the inventory of the slots gets reduced.
+13. Add user leaves the parking the inventory get updated.
