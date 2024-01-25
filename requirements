@@ -11,4 +11,4 @@
 10. Admin should be able to add entrance and exit panels.
 11. User should not be issued a ticket if slot is not available.
 12. As the user is allocated a slot the inventory of the slots gets reduced.
-13. Add user leaves the parking the inventory get updated.
+13. As the user leaves the parking the inventory get updated.
